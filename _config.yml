@@ -5,8 +5,8 @@ logo: /kelly-zkl.github.io/static/img/avatar.png
 github: https://github.com/kelly-zkl
 about: Freelance developer
 
-baseurl: "https://kelly-zkl.github.io/hcz-jekyll-blog"
-url: "https://kelly-zkl.github.io/hcz-jekyll-blog"
+baseurl: "https://kelly-zkl.github.io"
+url: "https://kelly-zkl.github.io"
 
 allowsearch: true
 
